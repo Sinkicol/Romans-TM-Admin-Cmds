@@ -39,6 +39,7 @@ print("!breals - Loads Breals GUI.")
 print("!aidez - Loads Aidez.")
 print("!unlockemotes - Gives you all the TM Emotes.")
 print("!aimbot - Loads a aimbot for you.")
+print("!mvp - Teleports you to MVP.")
 print("MADE BY ROMAAN")
 print("romaan#0001")
 
