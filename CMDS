@@ -1,7 +1,3 @@
-
-                                                                          
-                                                                          
-
 print("----COMMANDS----")
 print("!rejoin - Makes you rejoin.")
 print("!reset - Makes you reset.")
@@ -43,7 +39,4 @@ print("!aimbot - Loads a aimbot for you.")
 print("!afk off - Stops afk mode.")
 print("!mvp - Teleports you to MVP.")
 print("MADE BY ROMAAN")
-print("romaan#0001")
-
-
-                                                                                             
+print("romaan#0001")                                                                                  
